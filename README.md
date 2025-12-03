@@ -1,2 +1,2 @@
 # Pothhole-Detection-System
-This is a project that uses YOLOv8 as a CNN to effectively identify potholes in real time and report them in real time for effective detection tasks. 
+This project implements an intelligent pothole detection and reporting system using YOLOv8 and OpenCV. The system processes live or recorded video feeds to detect potholes in real-time, leveraging advanced CNN-based object detection.
